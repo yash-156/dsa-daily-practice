@@ -1,0 +1,20 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Java compiled files
+*.class
+
+# Build folders
+build/
+
+# VS Code
+.vscode/
+
+# Code Runner temp files
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.exe
