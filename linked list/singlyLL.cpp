@@ -152,7 +152,7 @@ int main() {
 
     cout<<"head "<< head -> data <<endl;
     cout<<"tail "<< tail -> data <<endl;
-
-
+    print(head);
+    
     return 0;
 }
